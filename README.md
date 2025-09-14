@@ -18,7 +18,7 @@ What’s inside this project?
 - `cypress/e2e/` — Automated test scripts  
 - `cypress/pages/` — Page Object files representing different web pages  
 - `cypress/support/` — Custom reusable commands and setup  
-- `QA_TestCases.xlsx` — Manual test cases to supplement automation  
+- `QA_TestCases_GowthamYuvarj.xlsx` — Manual test cases to supplement automation  
 
 ---
 
